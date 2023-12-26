@@ -19,7 +19,6 @@ I'm working as a Software Engineer at Hexaware Technologies.
 
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Redux" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Redux" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Jest" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>&nbsp;&nbsp;
